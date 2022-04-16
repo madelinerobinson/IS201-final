@@ -1,0 +1,54 @@
+
+ul {
+    list-style-type: square;
+}
+
+/*over-ride coding #1 */
+.post-meta {
+    font-family:"Open Sans";
+}
+
+/*over-ride coding #2 */
+.bold {
+    font-family:"open sans";
+    font-weight: bold;
+}
+
+/*over-ride coding #3 */
+.title {
+    font-size:xx-large;
+    font-family:"open sans";
+    font-weight:bold;
+    color: #B2AC88;
+}
+
+/*over-ride coding #4 */
+body {
+    background-color: whitesmoke;
+}
+
+.indexlink {
+    font-family: "Open Sans";
+    text-decoration: underline;
+    font-size: small;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.backtotop {
+    text-decoration: underline;
+    padding-left:50px;
+}
+
+.underline {
+    text-decoration:underline;
+}
+
+.padding {
+    padding-bottom: 50px;
+}
+
+.center {
+text-align:right; 
+}
